@@ -9,4 +9,9 @@ dlkfjvkjdfnvl
 
 vdf lkjnvksndv
 c.vl ndskjvs
+<<<<<<< HEAD
+>>>>>>> test
+=======
+
+//This is a test
 >>>>>>> test
