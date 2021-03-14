@@ -1,14 +1,6 @@
 <<<<<<< HEAD
 Hi. Welcome to this dummy git project. Keep it simple!
 =======
-hjfdbfd
-
-
-
-dlkfjvkjdfnvl
-
-vdf lkjnvksndv
-c.vl ndskjvs
 <<<<<<< HEAD
 >>>>>>> test
 =======
